@@ -1,6 +1,6 @@
 # Drone Navigation Through Moving Arches Using Model Predictive Control
 
-![Project Banner](docs/Model%20Predictive%20Control%20for%20Drones%20Navigating%20Dynamic%20Obstacles.pdf)
+![Project Banner](docs/images/Model%20Predictive%20Control%20for%20Drones%20Navigating%20Dynamic%20Obstacles_page-0001.jpg)
 
 ## Overview
 
